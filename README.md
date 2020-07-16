@@ -1,4 +1,4 @@
-# mytodoapp
+# reminder_app
 
 A new Flutter application.
 
